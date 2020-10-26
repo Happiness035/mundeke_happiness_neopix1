@@ -1,4 +1,6 @@
 light.setPixelColor(0, light.rgb(255, 0, 0))
 light.setPixelColor(1, light.rgb(0, 0, 255))
 light.setPixelColor(2, light.rgb(0, 255, 0))
-light.setPixelColor(3, light.rgb(20, 0, 0))
+light.setPixelColor(3, light.rgb(250, 235, 10))
+light.setPixelColor(4, light.rgb(255, 0, 255))
+light.setPixelColor(5, light.rgb(40, 200, 255))
